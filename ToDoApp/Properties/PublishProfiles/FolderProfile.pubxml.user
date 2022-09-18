@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\King\Downloads\ToDoApp\ToDoApp\ToDoApp\bin\Release\net6.0\publish\</_PublishTargetUrl>
+    <History>True|2022-09-18T21:23:39.5891821Z;True|2022-09-19T00:17:14.6241602+03:00;True|2022-09-15T16:57:58.6041841+03:00;True|2022-09-15T16:54:33.8904220+03:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="default">
+      <Value>Server=localhost%3bDatabase=ToDoApp%3buid=todoapp%3bpwd=TestAppUser%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
